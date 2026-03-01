@@ -1,0 +1,3 @@
+# No external dependencies needed!
+# Turtle comes with Python by default
+# Just make sure you have Python 3.x installed
